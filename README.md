@@ -1,4 +1,4 @@
-# SHL Assessment Recommendation Engine
+# Retrieval via LLM-Augmented Vector Search
 
 This repository contains the code and experiments for building a recommendation engine for SHL assessments, featuring a web-based UI and a GET API endpoint. Below is an overview of the key files and directories.
 
